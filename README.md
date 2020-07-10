@@ -1,12 +1,12 @@
-# franz-recipe-drift
-Get Drift inside Franz with this recipe
+# franz-recipe-tidio
+Get Tidio inside Franz with this recipe
 
 ## Requirements
 This recipe only works for Franz 5.X, find it at http://meetfranz.com
 
 ## Installation
 
-1. Clone/download the folder `franz-recipe-drift`.
+1. Clone/download the folder `franz-recipe-tidio`.
 
 2. Open the Franz Recipe folder on your machine:
   * Mac: `~/Library/Application Support/Franz/recipes/`
