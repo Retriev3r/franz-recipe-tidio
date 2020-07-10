@@ -1,0 +1,24 @@
+{
+  "id": "drift",
+  "name": "Dtift",
+  "version": "1.0.0",
+  "description": "Drift.com",
+  "main": "index.js",
+  "author": "Ben Wagner <Ben.cc5a29@burnermail.io>",
+  "repository": "https://github.com/Retriev3r/franz-recipe-drift",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.drift.com/home",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": true,
+    "hasDirectMessages": true,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "hasPredefinedUrl": true,
+    "hasCustomUrl": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    }
+  }
+}
